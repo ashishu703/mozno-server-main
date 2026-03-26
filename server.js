@@ -38,6 +38,8 @@ const allowedOrigins = [
   "http://127.0.0.1:5173",
   "https://2ae9-2409-40c4-21d4-7cf3-6598-76a5-69da-8b70.ngrok-free.app",
   "https://monzo-wealth-admin.vercel.app",
+  "https://mozno-wealth-main.vercel.app",
+  "https://mozno-wealth-admin-main.vercel.app"
   // Add your production domains here
   // "https://your-production-domain.com",
   // "https://admin.your-production-domain.com",
